@@ -74,7 +74,7 @@ PRODUCT_COPY_FILES += \
 DEVICE_MANIFEST_FILE := device/samsung/m11q/manifest.xml
 
 DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE := \
-    vendor/qcom/opensource/core-utils/vendor_framework_compatibility_matrix.xml
+    device/samsung/m11q/vendor_framework_compatibility_matrix.xml
 
     
 # Audio configuration file
