@@ -130,4 +130,3 @@ $(shell mkdir -p $(TARGET_OUT_VENDOR)/firmware/wlan/prima; \
         $(TARGET_OUT_VENDOR)/firmware/wlan/prima/WCNSS_wlan_dictionary.dat; \
         ln -sf /vendor/etc/wifi/WCNSS_qcom_cfg.ini \
         $(TARGET_OUT_VENDOR)/firmware/wlan/prima/WCNSS_qcom_cfg.ini)
-endif
